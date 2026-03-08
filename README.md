@@ -8,22 +8,22 @@ This repository contains the projects, assignments, and academic exercises compl
 
 ---
 
-## 🛠 Topics Covered
+## 🛠 Tech Stack
 
-### Statistical Learning & Inference
-* **Probability & Estimation**: Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP), Bayes Rule, and Naive Bayes.
-* **Clustering & Regression**: K-means clustering and various regression techniques.
-* **Probabilistic Models**: Gaussian Mixture Models (GMMs) and the Expectation-Maximization (EM) algorithm.
+### Mathematics & Data Science
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### Dimensionality & Classical ML
-* **Feature Engineering**: Dimensionality reduction and visualization techniques.
-* **Supervised Learning**: Support Vector Machines (SVM).
+### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Deep Learning & Computer Vision
-* **Neural Networks**: Basic and Advanced CNN architectures (LeNet, ResNet, EfficientNet, etc.) and RNNs for sequential data.
-* **Natural Language Processing**: Recurrent architectures, Attention mechanisms, Transformers, and Vision Transformers (ViT).
-* **Advanced Learning Paradigms**: Unsupervised, Semi-Supervised, Self-Supervised, and Contrastive Learning.
-* **Generative AI**: Deep Generative Models including Variational Autoencoders (VAE) and Diffusion models.
+### Environment & Tools
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
